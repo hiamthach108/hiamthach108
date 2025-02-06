@@ -2,13 +2,13 @@
 
 🎯 **Software Engineer | Backend Developer | Blockchain Enthusiast**  
 
-Hello! I'm Thach, a passionate and versatile Software Engineer with over two years of experience in building innovative applications across various domains. From **games** and **GameFi platforms** to **blockchain solutions**, **management systems**, and **e-learning platforms**, I thrive on creating impactful and scalable solutions.  
+Hello! I'm Thach, a passionate and versatile Software Engineer with several years of experience building innovative applications across various domains. I thrive on creating impactful and scalable solutions from games and gameFi platforms to blockchain solutions, management systems, and e-learning platforms.  
 
 🔧 **My Expertise**  
-- **Backend Development**: Golang, NodeJS, gRPC, and microservices architecture.  
+- **Backend Development**: Golang, NodeJS, and .Net.  
 - **Frontend Development**: ReactJS, NextJS.  
 - **Cloud & DevOps**: Google Cloud Platform, Azure, Docker.  
-- **Databases**: MongoDB, SQL, Redis.  
+- **Databases**: MongoDB, PostgreSQL, Redis.  
 - **Blockchain**: NFT integration, smart contracts, and GameFi mechanics. 
 
 💡 **What Drives Me**  
